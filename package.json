@@ -1,0 +1,19 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "friend finder app",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "timdecilveo"
+  },
+  "keywords": [
+    "friend"
+  ],
+  "author": "timdecilveo",
+  "license": "ISC"
+}
